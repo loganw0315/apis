@@ -1,0 +1,29 @@
+
+body {
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-image: url("https://static.wikia.nocookie.net/starwars/images/3/3d/Alderaanexplosion.jpg/revision/latest?cb=20111104205243");
+}
+
+h1{
+    display:flex;
+    justify-content: right;
+}
+
+button{
+    background-color: yellow;
+    border-radius: 10px;
+    
+}
+
+main{
+    text-align: right;
+}
+
+h2{
+    color: white;
+    
+}
